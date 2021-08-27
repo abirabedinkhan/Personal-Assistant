@@ -1,0 +1,5 @@
+requests==2.25.1
+pyttsx3==2.90
+pywhatkit==4.1
+playsound==1.2.2
+wikipedia==1.4.0
