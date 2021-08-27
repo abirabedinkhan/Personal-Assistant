@@ -1,0 +1,29 @@
+{
+    "code": [
+        {
+            "id": 1,
+            "question": "what is your name",
+            "answer": "My name is JARVIS"
+        },
+        {
+            "id": 2,
+            "question": "hello",
+            "answer": "Hello, Sir"
+        },
+        {
+            "id": 3,
+            "question": "how are you",
+            "answer": "Fine"
+        },
+        {
+            "id": 4,
+            "question": "what can you do",
+            "answer": "I can do lot of things."
+        }
+    ],
+    "error": [
+        {
+            "code": "Can you repeat that again?"
+        }
+    ]
+}
