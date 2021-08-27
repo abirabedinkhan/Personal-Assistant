@@ -6,10 +6,10 @@ _This project is still in progress_
 
 ## Installation
 
-Install my-project with pip3
+Install Personal-Assistant with pip3
 
 ```bash
-  cd my-project
+  cd Personal-Assistant
   pip3 install -r requirements.txt
   python3 .\play.py
 ```
