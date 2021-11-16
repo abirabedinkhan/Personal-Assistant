@@ -24,4 +24,4 @@ To tarin your AI you can run train.py
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/abirabedinkhan/Personal-Assistant/blob/main/LICENSE)
